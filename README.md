@@ -1,2 +1,5 @@
 # AzureARM
-ARM templates &amp; parameter files for different Azure Services
+
+## Introduction
+
+This repo will contain ARM templates, parameter files, Powershell scripts to deploy ARM templates at different scopes for different Azure Services.
